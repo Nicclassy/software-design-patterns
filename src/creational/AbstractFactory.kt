@@ -1,4 +1,4 @@
-package behavioural
+package creational
 
 abstract class UIElement
 abstract class Icon(open val width: Int, open val height: Int) : UIElement()
